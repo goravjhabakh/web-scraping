@@ -1,0 +1,20 @@
+Title: Multimodal Deep Learning for Subtype Classification in Breast Cancer Using Histopathological Images and Gene Expression Data
+https://arxiv.org/pdf/2503.02849.pdf
+Src/Arxiv/papers/Multimodal Deep Learning for Subtype Classification in Breast Cancer Using Histopathological Images and Gene Expression Data.pdf
+
+Title: Precision phenomenology of the PDF-BSM interplay
+https://arxiv.org/pdf/2503.02827.pdf
+Src/Arxiv/papers/Precision phenomenology of the PDF-BSM interplay.pdf
+
+Title: A Minimalist Example of Edge-of-Stability and Progressive Sharpening
+https://arxiv.org/pdf/2503.02809.pdf
+Src/Arxiv/papers/A Minimalist Example of Edge-of-Stability and Progressive Sharpening.pdf
+
+Title: Deep Learning-Enhanced Visual Monitoring in Hazardous Underwater Environments with a Swarm of Micro-Robots
+https://arxiv.org/pdf/2503.02752.pdf
+Src/Arxiv/papers/Deep Learning-Enhanced Visual Monitoring in Hazardous Underwater Environments with a Swarm of Micro-Robots.pdf
+
+Title: Measurement noise scaling laws for cellular representation learning
+https://arxiv.org/pdf/2503.02726.pdf
+Src/Arxiv/papers/Measurement noise scaling laws for cellular representation learning.pdf
+
